@@ -1060,3 +1060,19 @@
                                 display: flex;
                                 align-items: center;
                               }
+
+                              .main-container__wrapper {
+                                display: flex;
+                              }
+                              /* --------------------------------- */
+                              .main-container_wrapper-content__experience_text {
+                                font-family: 'Montserrat', sans-serif;
+                                font-size: 25px;
+                                color: #09f;
+                                }
+                                /* ---------------------------------- */
+                                .main-container_wrapper-content__education_text {
+                                  font-family: 'Montserrat', sans-serif;
+                                  font-size: 25px;
+                                  color: #09f;
+                                  }
