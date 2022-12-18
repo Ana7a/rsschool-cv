@@ -523,3 +523,85 @@
       border-radius: 50%;
       margin-right: 20px;
     }
+
+    .main-container_wrapper-content__skills_proactivity-content {
+        margin-top: 15px;
+        margin-right:200px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 359px;
+        height: 43.2px;
+        border: 1px solid #29a191;
+        background: rgba(49, 47, 47, 0.44);
+        box-shadow: 0 0 15px 0 #09f;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        color: #fff;
+        padding-left: 20px;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-gradient {
+          position: relative;
+          width: 32.4px;
+          height: 32.4px;
+          left: 0px;
+          top: 0.54px;
+          background: rgba(0, 0, 0, 0.44);
+          box-shadow: inset 0px 0.641542px 1.92462px rgba(255, 255, 255, 0.22);
+          backdrop-filter: blur(12.8308px);
+          border-radius: 50%;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-rectangle {
+        padding-left: 7px;
+        padding-top: 8px;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-gradientsecond {
+          position: relative;
+          width: 32.4px;
+          height: 32.4px;
+          left: 0px;
+          top: 0.54px;
+          background: rgba(0, 0, 0, 0.44);
+          box-shadow: inset 0px 0.641542px 1.92462px rgba(255, 255, 255, 0.22);
+          backdrop-filter: blur(12.8308px);
+          border-radius: 50%;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-rectanglesecond {
+          padding-left: 7px;
+        padding-top: 8px;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-gradientthird {
+          position: relative;
+          width: 32.4px;
+          height: 32.4px;
+          left: 0px;
+          top: 0.54px;
+          background: rgba(0, 0, 0, 0.44);
+          box-shadow: inset 0px 0.641542px 1.92462px rgba(255, 255, 255, 0.22);
+          backdrop-filter: blur(12.8308px);
+          border-radius: 50%;
+        
+        }
+        .main-container_wrapper-content__skills_proactivity-external-rectanglthird {
+          padding-left: 7px;
+          padding-top: 8px;
+        }
+        
+        .main-container_wrapper-content__skills_proactivity-external-gradientfourth {
+          position: relative;
+          width: 32.4px;
+          height: 32.4px;
+          left: 0px;
+          top: 0.54px;
+          background: rgba(0, 0, 0, 0.44);
+          box-shadow: inset 0px 0.641542px 1.92462px rgba(255, 255, 255, 0.22);
+          backdrop-filter: blur(12.8308px);
+          border-radius: 50%;
+          margin-right: 20px;
+        }
