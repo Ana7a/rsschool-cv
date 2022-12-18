@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0; 
+    background-image: linear-gradient(90deg, #2A2D32 5.15%, #131313 89.49%);
+    
+  }
+  .container {
+    max-width: 1080px;
+    max-height: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+ 
+  a {
+    text-decoration: none;
+  }
+
+  header {
+    height: 300px;
+    box-shadow: 0 0 15px 0 #09f;
+    border-bottom: 1px solid rgba(17, 168, 253, 1)
+  
+    
+  }
+  .header-container {
+    padding-top: 20px;
+   
+  }
+
+  ul, li {
+    list-style: none;
+  }
