@@ -1111,3 +1111,28 @@
                                     box-shadow: 0 0 15px 0 #09f;
                                     border-bottom: 1px solid rgba(17, 168, 253, 1)
                                     }
+                                    .footer-container__list_description {
+                                        padding-top: 30px;
+                                        display: flex;
+                                        justify-content: space-around;
+                                        align-items: center;
+                                        
+                                      }
+                          
+                                      .footer-container__list_rss_img {
+                                        width: 200px;
+                                        height: 100px;
+                                        box-shadow: 0 0 15px 0 #09f;
+                                      }
+                          
+                                      .footer-container__list_link-github_img {
+                                        width: 200px;
+                                        box-shadow: 0 0 15px 0 #09f;
+                                      }
+                          
+                                      .footer-container__list_description_year {
+                                        font-family:'Montserrat', sans-serif; 
+                                        color: #09f;
+                                        font-size: 100px;
+                                      }
+                          
