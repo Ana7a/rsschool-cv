@@ -970,3 +970,33 @@
                             border-radius: 50%;
                             margin-right: 20px;
                             }
+
+                            .main-container_wrapper-content__firstjob_content{
+                                color: white;
+                                font-family: 'Montserrat', sans-serif;
+                                line-height: 1;
+                                width: 400px;
+                                height: 220px;
+                                background: #202122;
+                                background: rgba(49, 47, 47, 0.44);
+                                box-shadow: 0 0 15px 0 #09f;
+                                border-radius: 25px;
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                align-items: flex-start;
+                                padding: 0px;
+                                gap: 15px;
+                                padding-left: 30px;
+                  
+                              }
+                              .main-container_wrapper-content__firstjob {
+                               display: flex;
+                                
+                              }
+                  
+                              .main-container_wrapper-content__firstjob_about-desc {
+                               
+                                display: flex;
+                                align-items: center;
+                              }
