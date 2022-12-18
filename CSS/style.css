@@ -209,3 +209,113 @@
   .social-links_number__link {
     color: #fff;
   }
+
+  .main-container_wrapper-content__about-me {
+    padding-top: 5px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    width: 390px;
+    height: 350px;
+    border: 1px solid #29a191;
+    padding-left: 20px;
+    border-radius: 25px;
+    box-shadow: 0 0 15px 0 #09f;
+   
+  }
+
+  .main-container__wrapper{
+   padding-top: 50px;
+  }
+
+  .main-container_wrapper-content__languages {
+    padding-top: 50px;
+    width: 261px;
+    height: 118px;
+ 
+  
+  }
+
+  .wrapper-content_languages-english {
+    position: absolute;
+    width: 111px;
+    height: 111px;
+    background-image: linear-gradient(320.66deg, #11A8FD 14.75%, #0081C9 84.81%);
+    border-radius: 128.81px;
+    margin-left: 230px;
+  
+  } 
+
+  .wrapper-content__languages-english_external_gradient {
+    position: absolute;
+    box-sizing: border-box;
+    width: 97.29px;
+    height: 97.29px;
+    background-image: linear-gradient(318.21deg, #101113 14.05%, #2B2F33 85.29%);
+    border-radius: 539.878px;
+    left: 8px;
+    top: 8px;
+  }
+
+  .wrapper-content__languages-english_second-external_gradient {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    top: 6px;
+    left: 6px;
+    background: #32363B;
+    box-shadow: inset 1.44407px 0.722036px 1.44407px rgba(255, 255, 255, 0.05), inset -19.0804px -19.0804px 47.7011px rgba(59, 68, 81, 0.5), inset 19.0804px 19.0804px 58.4849px rgba(0, 0, 0, 0.55);
+    border-radius: 381.609px;
+  }
+
+  .wrapper-content_languages-english-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 14px;
+  }
+
+
+  .wrapper-content_languages-turkish {
+    position: absolute;
+    width: 111px;
+    height: 111px;
+    background-image: linear-gradient(320.66deg, #11A8FD 14.75%, #0081C9 84.81%);
+    border-radius: 128.81px;
+    margin-left: 30px;
+  }
+
+
+  .wrapper-content__languages-turkish_external_gradient {
+    position: absolute;
+    box-sizing: border-box;
+    width: 97.29px;
+    height: 97.29px;
+    background-image: linear-gradient(318.21deg, #101113 14.05%, #2B2F33 85.29%);
+    border-radius: 539.878px;
+    left: 8px;
+    top: 8px;
+  }
+
+  .wrapper-content__languages-turkish_second-external_gradient {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    top: 6px;
+    left: 6px;
+    background: #32363B;
+    box-shadow: inset 1.44407px 0.722036px 1.44407px rgba(255, 255, 255, 0.05), inset -19.0804px -19.0804px 47.7011px rgba(59, 68, 81, 0.5), inset 19.0804px 19.0804px 58.4849px rgba(0, 0, 0, 0.55);
+    border-radius: 381.609px;
+  }
+
+  .wrapper-content_languages-turkish-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 14px;
+  }
